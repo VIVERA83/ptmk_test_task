@@ -1,3 +1,5 @@
 .idea/
 temp/
+app/*.db
 .gitignore
+app/application/__pycache__
